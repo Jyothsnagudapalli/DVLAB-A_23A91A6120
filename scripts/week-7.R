@@ -51,4 +51,3 @@ mosaic(~Hair + Eye + Sex,
        data=hair_eye_df,
        shade=TRUE,
        legend=TRUE)
-
